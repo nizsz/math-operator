@@ -18,7 +18,8 @@ Desafio proposto no Stage-04 pela Rocketseat.
 <br>
 
 <p align="center">
-  <img alt="Demonstração da calculadora básica" src=".github/demonstration.gif" width="100%">
+  <img alt="Demonstração da calculadora básica" src="
+  " width="100%">
 </p>
 
 ## 🚀 Tecnologias
